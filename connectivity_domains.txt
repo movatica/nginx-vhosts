@@ -1,0 +1,27 @@
+## List of domain names used for connectivity check features.
+## This can be used for redirecting requests to a custom server.
+
+# Microsoft
+ipv6.msftconnecttest.com
+www.msftconnecttest.com
+ipv6.msftncsi.com
+www.msftncsi.com
+
+# Google
+clients3.google.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+
+# Linux
+connectivity-check.ubuntu.com
+nmcheck.gnome.org
+networkcheck.kde.org
+
+# Apple
+captive.apple.com
+
+# Mozilla
+detectportal.firefox.com
+
+# Amazon FireOS
+fireoscaptiveportal.com
